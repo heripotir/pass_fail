@@ -41,6 +41,6 @@ cout<<"KALAN     PFSiZ     PFLi"<<endl;
 		
 	}
 	
-	
+	return 0;
 	
 	}
