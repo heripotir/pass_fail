@@ -7,7 +7,7 @@ int main()
 { 	long double toplam,g=0;
 	long double ptc=0, kg=0, ptgpts=0, tgpts=0, tc=0;
 	
-	cout<<"Egitim hayatiniz boyu almaniz toplam kredi sayisi:";
+	cout<<"Egitim hayatiniz boyu almaniz gereken toplam kredi sayisi:";
 	cin>>toplam;
 	
 	cout<<"Student info : Semester: 2019-2020 Spring / COVID-19 Pandemic sayfasini aciniz ve bilgileri giriniz: "<<endl;
