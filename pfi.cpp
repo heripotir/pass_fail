@@ -22,7 +22,7 @@ int main()
 	cout<<"Prev total GR. PTS:";
 	cin>>ptgpts;
 
-	cout<<"Tabloyu ne not araligi ile gormek istersiniz (0.25, 0.5 gibi)";
+	cout<<"Tabloyu ne not araligi ile gormek istersiniz (0.25, 0.5 gibi):";
 	cin>>g;	
 
 
